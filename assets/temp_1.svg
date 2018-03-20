@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 549 500">
+  <path class="svg-template__background" d="M0 0h550v500H0z"/>
+  <circle class="svg-template__content" cx="109.926" cy="417.611" r="39.931"/>
+  <circle class="svg-template__content" cx="440.069" cy="417.611" r="39.931"/>
+  <circle class="svg-template__content" cx="274.997" cy="417.611" r="39.931"/>
+  <path class="svg-template__content" d="M79.982 470.875h59.887v8H79.982zM245.054 470.875h59.887v8h-59.887zM410.126 470.875h59.887v8h-59.887z"/>
+  <path class="svg-template__content" d="M69.994 263.542h218.091v25.63H69.994zM69.994 303.542H480v8.859H69.994zM69.994 321.542H480v8.859H69.994zM69.994 339.542H480v8.859H69.994z"/>
+  <path class="svg-template__content" d="M0 63.75h550v169.901H0z"/>
+  <circle class="svg-template__content" cx="45.75" cy="31.875" r="25"/>
+  <path class="svg-template__content" d="M473.342 27.875H526v8h-52.658zM387.328 27.875h69.994v8h-69.994zM326.757 27.875h43.083v8h-43.083zM243.261 27.875h65.818v8h-65.818zM195 27.875h31.368v8H195z"/>
+</svg>
